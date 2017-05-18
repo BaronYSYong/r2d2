@@ -3,6 +3,10 @@
 ## Reference
 * http://wiki.ros.org/urdf/Tutorials/Using%20urdf%20with%20robot_state_publisher
 
+## Environment
+* Ubuntu 16.04 Xenial
+* ROS Kinetic
+
 ## Build
 ```
 $ cd /path/to/catkin_ws/src
