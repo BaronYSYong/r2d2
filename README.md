@@ -21,3 +21,4 @@ Run rviz in a new terminal using:
 $ rosrun rviz rviz
 ```
 Choose odom as your fixed frame (under Global Options). Then choose "Add Display" and add a Robot Model Display and a TF Display
+![](image/rviz.png) 
